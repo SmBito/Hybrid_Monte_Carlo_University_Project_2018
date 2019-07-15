@@ -2,11 +2,8 @@
 Comparing the performance of Hybrid MC, Langevin MC and a simple random walk
 
 ## Metropolis-Hastings Method
-<img src="http://www.sciweavers.org/upload/Tex2Img_1557063031/render.png"/>
 
 ## Random Walk Sampling
-<img src="http://www.sciweavers.org/upload/Tex2Img_1557062476/render.png"/>
-<img src="http://www.sciweavers.org/upload/Tex2Img_1557063410/render.png"/>
 
 <p float="middle">
   <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/random_walk_0.01.png", width="30%", height="30%"/>
@@ -16,7 +13,7 @@ Comparing the performance of Hybrid MC, Langevin MC and a simple random walk
 
 ## Langevin Sampling
 
-Langevin dynamics: <img src="http://www.sciweavers.org/upload/Tex2Img_1557064556/render.png">
+Langevin dynamics: 
 
 <p float="middle">
   <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/langevin_0.01.png", width="30%", height="30%"/>
@@ -28,7 +25,6 @@ Langevin dynamics: <img src="http://www.sciweavers.org/upload/Tex2Img_1557064556
 
 Hamilton dynamics: 
 
-<img src="http://www.sciweavers.org/upload/Tex2Img_1557065364/render.png"/>
 
 Where,[[2]](https://en.wikipedia.org/w/index.php?title=Hamiltonian_mechanics&oldid=848677024)
 1. The first Hamilton equation means that the force equals the negative gradient of potential energy.
@@ -36,13 +32,10 @@ Where,[[2]](https://en.wikipedia.org/w/index.php?title=Hamiltonian_mechanics&old
 
 #### Numerical Methods[[1]](https://arxiv.org/abs/1206.1901)
 1. Euler's Method
-<img src="http://www.sciweavers.org/upload/Tex2Img_1557068627/render.png"/>
 
 2. Modified Euler's Method
-<img src="http://www.sciweavers.org/upload/Tex2Img_1557068516/render.png"/>
 
 3. Leapfrog Method
-<img src="http://www.sciweavers.org/upload/Tex2Img_1557068596/render.png"/>
 
 
 <p float="middle">
