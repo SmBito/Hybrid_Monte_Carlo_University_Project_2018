@@ -1,4 +1,5 @@
-# Hybrid Monte Carlo, or Hamiltonian Monte Carlo
+# Hybrid Monte Carlo, or Hamiltonian Monte Carlo  - University Project
+# Comparing the performance of Hybrid MC, Langevin MC and a simple random walk
 
 ## Metropolis-Hastings Method
 <img src="http://www.sciweavers.org/upload/Tex2Img_1557063031/render.png"/>
