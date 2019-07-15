@@ -6,9 +6,9 @@ Comparing the performance of Hybrid MC, Langevin MC and a simple random walk
 ## Random Walk Sampling
 
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/random_walk_0.01.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/random_walk_0.1.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/random_walk_1.0.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/random_walk_0.01.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/random_walk_0.1.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/master/Images/random_walk_1.0.png", width="30%", height="30%"/>
 </p>
 
 ## Langevin Sampling
