@@ -8,7 +8,7 @@ Comparing the performance of Hybrid MC, Langevin MC and a simple random walk
 <p float="middle">
   <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/random_walk_0.01.png", width="30%", height="30%"/>
   <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/random_walk_0.1.png", width="30%", height="30%"/>
-  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/master/Images/random_walk_1.0.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/random_walk_1.0.png", width="30%", height="30%"/>
 </p>
 
 ## Langevin Sampling
@@ -16,9 +16,9 @@ Comparing the performance of Hybrid MC, Langevin MC and a simple random walk
 Langevin dynamics: 
 
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/langevin_0.01.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/langevin_0.1.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/langevin_1.0.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/langevin_0.01.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/langevin_0.1.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/langevin_1.0.png", width="30%", height="30%"/>
 </p>
 
 ## Hamiltonian Sampling
@@ -39,37 +39,37 @@ Where,[[2]](https://en.wikipedia.org/w/index.php?title=Hamiltonian_mechanics&old
 
 
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_epsilon_0_0_1.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_epsilon_0_5.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_epsilon_1_0.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_epsilon_0_0_1.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_epsilon_0_5.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_epsilon_1_0.png", width="30%", height="30%"/>
 </p>
 
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_temp_0_1.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_temp_1.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_temp_0_1.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_temp_1.png", width="30%", height="30%"/>
 </p>
 
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_temp_2.png", width="30%", height="30%"/>
-   <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_temp_1_5.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_temp_2.png", width="30%", height="30%"/>
+   <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_temp_1_5.png", width="30%", height="30%"/>
 </p>
 
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_step_1.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/HMC_step_100.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_step_1.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/HMC_step_100.png", width="30%", height="30%"/>
 </p>
 
 ## Comparison
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/comparison_accept_hmc.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/comparison_accept_lan.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/comparison_accept_rw.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/comparison_accept_hmc.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/comparison_accept_lan.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/comparison_accept_rw.png", width="30%", height="30%"/>
 </p>
 
 <p float="middle">
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/comparison_500.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/comparison_1000.png", width="30%", height="30%"/>
-  <img src="https://github.com/Rafaelchen0625/Hybrid-Monte-Carlo/blob/master/Images/comparison_5000.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/comparison_500.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/comparison_1000.png", width="30%", height="30%"/>
+  <img src="https://github.com/andrew-ve/Hybrid-Monte-Carlo-university-project-2018/blob/master/Images/comparison_5000.png", width="30%", height="30%"/>
 </p>
 
 ## Reference
